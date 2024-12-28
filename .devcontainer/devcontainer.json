@@ -17,7 +17,8 @@
         "pflannery.vscode-versionlens",
         "esbenp.prettier-vscode",
         "firsttris.vscode-jest-runner",
-        "eamodio.gitlens"
+        "eamodio.gitlens",
+        "Supermaven.supermaven"
       ],
       "settings": {
         "editor.tabSize": 2,
